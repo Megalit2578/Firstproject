@@ -1,0 +1,14 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "sonarlint.connectedMode.project": {
+        "connectionId": "se190622-softwaretesting-lab",
+        "projectKey": "Megalit2578_Firstproject"
+    },
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-11",
+            "path": "C:\\Program Files\\Java\\jdk-11",
+            "default": true
+        }
+    ]
+}
