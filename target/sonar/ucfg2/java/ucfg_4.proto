@@ -1,0 +1,57 @@
+
+(com.example.UserService#isUserActive(I)ZW
+MC:/Users/admin/Desktop/SWT301/demo/src/main/java/com/example/UserService.java
+ 
+("3*‘
+2 (#}{
+ (.
+%3boolean"com.example.User#isActive()Z*6
+
+__unknown_file (
+
+usercom.example.User2
+isActive()*
+1*È
+3 ("
+
+ (" 
+%0com.example.UserRepository"__id*K
+
+__unknown_file (/*-
+com.example.UserService"
+userRepositoryÐÍ
+ (3
+%1com.example.User"8com.example.UserRepository#findById(I)Lcom/example/User;*>
+
+__unknown_file ("
+ 
+%0com.example.UserRepository*"
+
+__unknown_file (
+""2findById(I)b
+`
+ (4
+usercom.example.User"__id*4
+
+__unknown_file (
+
+%1com.example.Userv
+t
+ (
+%2boolean"	__compare*
+ (
+!=*&
+ (
+
+usercom.example.User*
+ (
+""*
+2
+1*!
+1 (/"
+ (/
+"": 
+
+__unknown_file (
+""B
+com.example.UserServiceHX
